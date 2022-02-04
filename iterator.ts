@@ -100,4 +100,5 @@ console.table([...sequence('abc', seq(7, 10))]);
 fetch('url')
   .then((res) => {})
   .then()
+  .then()
   .catch();
