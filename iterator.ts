@@ -99,6 +99,6 @@ console.table([...sequence('abc', seq(7, 10))]);
 
 fetch('url')
   .then((res) => {})
+  .then((response) => {})
   .then()
-  .then((request2) => {})
   .catch();
